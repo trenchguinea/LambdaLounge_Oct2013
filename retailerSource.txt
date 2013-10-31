@@ -1,0 +1,100 @@
+1	 Wal-Mart	 Bentonville, Ark.	 $316,083,000	 2.6%	 $453,976,000	 69.6%	 4,423	 1.4%
+2	 Kroger	 Cincinnati	 $85,491,000	 9.1%	 $85,491,000	 100.0%	 3,574	 -1.0%
+3	 Target	 Minneapolis	 $68,466,000	 4.1%	 $68,466,000	 100.0%	 1,763	 0.7%
+4	 Walgreen	 Deerfield, Ill.	 $66,330,000	 8.3%	 $68,233,000	 97.2%	 7,651	 2.6%
+5	 Costco	 Issaquah, Wash.	 $64,221,000	 8.9%	 $89,054,000	 72.1%	 425	 3.2%
+6	 The Home Depot	 Atlanta	 $62,075,000	 3.1%	 $70,391,000	 88.2%	 1,963	 -0.2%
+7	 CVS Caremark	 Woonsocket, R.I.	 $59,688,000	 3.9%	 $59,786,000	 99.8%	 7,345	 1.8%
+8	 Lowe's	 Mooresville, N.C.	 $49,282,000	 2.3%	 $50,207,000	 98.2%	 1,712	 -0.6%
+9	 Best Buy	 Richfield, Minn.	 $37,551,000	 1.2%	 $50,705,000	 74.1%	 1,443	 10.0%
+10	 Safeway	 Pleasanton, Calif.	 $36,923,000	 5.6%	 $41,884,000	 88.2%	 1,453	 -0.7%
+11	 McDonald's	 Oak Brook, Ill.	 $34,172,000	 5.5%	 $85,941,000	 39.8%	 14,087	 0.5%
+12	 Sears Holdings	 Hoffman Estates, Ill.	 $33,837,000	 -4.3%	 $39,365,000	 86.0%	 3,489	 0.1%
+13	 SUPERVALU	 Eden Prairie, Minn.	 $29,297,000	 -3.6%	 $29,297,000	 100.0%	 2,466	 1.6%
+14	 Publix	 Lakeland, Fla.	 $26,967,000	 7.6%	 $26,967,000	 100.0%	 1,198	 -0.9%
+15	 Amazon.com	 Seattle	 $26,397,000	 42.5%	 $47,715,000	 55.3%	 -	 na
+16	 Macy's	 Cincinnati	 $26,344,000	 5.7%	 $26,405,000	 99.8%	 840	 -0.8%
+17	 Rite Aid	 Camp Hill, Pa.	 $25,256,000	 0.6%	 $25,256,000	 100.0%	 4,664	 -1.1%
+18	 Ahold USA / Royal Ahold	 Washington, D.C.	 $25,074,000	 6.6%	 $63,066,000	 39.8%	 756	 0.7%
+19	 Delhaize America	 Salisbury, N.C.	 $19,230,000	 2.2%	 $29,400,000	 65.4%	 1,650	 1.4%
+20	 Kohl's	 Menomonee Falls, Wis.	 $18,804,000	 2.2%	 $18,804,000	 100.0%	 1,127	 4.1%
+21	 Apple Stores / iTunes	 Cupertino, Calif.	 $17,825,000	 36.9%	 $18,418,000	 96.8%	 245	 5.2%
+22	 TJX	 Framingham, Mass.	 $17,386,000	 3.8%	 $23,267,000	 74.7%	 2,212	 0.3%
+23	 J.C. Penney	 Plano, Texas	 $17,146,000	 -2.9%	 $17,238,000	 99.5%	 1,105	 0.5%
+24	 True Value	 Chicago	 $17,135,000	 2.4%	 $17,135,000	 100.0%	 4,650	 -1.1%
+25	 YUM! Brands	 Louisville, Ky.	 $17,100,000	 0.6%	 $32,380,000	 52.8%	 18,050	 -1.0%
+26	 H-E-B	 San Antonio	 $16,820,000	 11.9%	 $17,976,000	 93.6%	 308	 5.1%
+27	 Meijer	 Grand Rapids, Mich.	 $16,603,000	 7.1%	 $16,603,000	 100.0%	 197	 0.0%
+28	 Dollar General	 Goodlettsville, Tenn.	 $14,807,000	 13.6%	 $14,807,000	 100.0%	 9,937	 6.0%
+29	 Wakefern / ShopRite	 Keasbey, N.J.	 $12,838,000	 8.6%	 $12,838,000	 100.0%	 291	 6.6%
+30	 BJ's Wholesale Club	 Westborough, Mass.	 $11,797,000	 8.5%	 $11,797,000	 100.0%	 196	 3.7%
+31	 Gap	 San Francisco, Calif.	 $11,443,000	 -2.3%	 $14,289,000	 80.1%	 2,436	 -2.6%
+32	 Subway	 Milford, Conn.	 $11,206,000	 8.0%	 $17,212,000	 65.1%	 25,014	 3.4%
+33	 Verizon Wireless	 Basking Ridge, N.J.	 $10,997,000	 37.1%	 $10,997,000	 100.0%	 2,330	 0.0%
+34	 Nordstrom	 Seattle	 $10,497,000	 12.7%	 $10,497,000	 88.7%	 225	 10.3%
+35	 7-Eleven	 Dallas	 $10,361,000	 19.1%	 $62,700,000	 16.5%	 7,779	 16.3%
+36	 Staples	 Framingham, Mass.	 $10,337,000	 0.9%	 $20,615,000	 50.1%	 1,583	 0.5%
+37	 Whole Foods Market	 Austin, Texas	 $9,794,000	 12.1%	 $10,108,000	 96.9%	 311	 8.0%
+38	 Ace Hardware	 Oak Brook, Ill.	 $9,491,000	 4.3%	 $10,250,000	 92.6%	 4,072	 0.6%
+39	 Bed Bath & Beyond	 Union, N.J.	 $9,402,000	 8.1%	 $9,511,000	 98.8%	 1,143	 2.6%
+40	 Aldi	 Batavia, Ill.	 $9,218,000	 10.2%	 $42,871,000	 21.5%	 1,195	 5.3%
+41	 Wendy's	 Dublin, Ohio	 $8,931,000	 -10.9%	 $9,604,000	 93.0%	 5,876	 -37.5%
+42	 Ross Stores	 Pleasanton, Calif.	 $8,605,000	 9.5%	 $8,613,000	 99.9%	 1,124	 6.6%
+43	 Limited Brands	 Columbus, Ohio	 $8,590,000	 9.7%	 $10,364,000	 82.9%	 2,623	 -0.8%
+44	 Family Dollar	 Matthews, N.C.	 $8,548,000	 8.7%	 $8,548,000	 100.0%	 7,023	 3.5%
+45	 Burger King Holdings	 Miami	 $8,446,000	 0.1%	 $15,499,000	 54.5%	 7,218	 -0.6%
+46	 Toys "R" Us	 Wayne, N.J.	 $8,281,000	 -3.0%	 $17,363,000	 47.7%	 871	 0.0%
+47	 Army Air Force Exchange	 Dallas	 $8,228,000	 -0.1%	 $8,228,000	 100.0%	 181	 0.6%
+48	 Menard	 Eau Claire, Wis.	 $8,067,000	 0.4%	 $8,067,000	 100.0%	 262	 0.8%
+49	 Starbucks	 Seattle	 $8,038,000	 6.3%	 $11,700,000	 68.7%	 10,787	 -3.1%
+50	 Darden Restaurants	 Orlando	 $7,905,000	 8.1%	 $8,108,000	 97.5%	 1,936	 4.1%
+51	 Trader Joe's	 Monrovia, Calif.	 $7,307,000	 7.7%	 $32,691,000	 22.4%	 376	 5.3%
+52	 Office Depot	 Boca Raton, Fla.	 $7,297,000	 -2.7%	 $16,711,000	 44.7%	 1,125	 0.0%
+53	 Barnes & Noble	 New York	 $7,157,000	 2.0%	 $7,157,000	 100.0%	 1,330	 -0.8%
+54	 Hy-Vee	 W. Des Moines, Iowa	 $7,092,000	 4.2%	 $7,092,000	 100.0%	 261	 0.0%
+55	 Winn-Dixie Stores	 Jacksonville, Fla.	 $6,986,000	 1.5%	 $6,986,000	 100.0%	 484	 0.0%
+56	 Health Mart Systems	 Omaha, Neb.	 $6,943,000	 4.7%	 $6,943,000	 100.0%	 2,850	 5.6%
+57	 A&P	 Montvale, N.J.	 $6,791,000	 -16.4%	 $6,791,000	 100.0%	 310	 -18.8%
+58	 Giant Eagle	 O'Hara Township, Pa.	 $6,681,000	 4.5%	 $6,681,000	 100.0%	 406	 5.7%
+59	 GameStop	 Grapevine, Texas	 $6,566,000	 -0.7%	 $9,551,000	 68.8%	 4,455	 -0.7%
+60	 Dollar Tree	 Chesapeake, Va.	 $6,531,000	 12.5%	 $6,631,000	 98.5%	 4,252	 4.9%
+61	 AutoZone	 Memphis	 $6,523,000	 7.8%	 $6,871,000	 94.9%	 4,507	 3.3%
+62	 AT&T Wireless	 Dallas	 $6,486,000	 30.0%	 $6,486,000	 100.0%	 2,300	 -0.6%
+63	 Dunkin' Brands	 Canton, Mass.	 $6,428,000	 8.7%	 $8,343,000	 77.0%	 9,472	 1.6%
+64	 DineEquity	 Glendale, Calif.	 $6,322,000	 7.4%	 $6,550,000	 96.5%	 3,385	 2.7%
+65	 Wegman's Food Markets	 Rochester, N.Y.	 $6,199,000	 10.7%	 $6,199,000	 100.0%	 78	 2.6%
+66	 Dillard's	 Little Rock, Ark.	 $6,194,000	 2.9%	 $6,194,000	 100.0%	 304	 -1.3%
+67	 Advance Auto Parts	 Roanoke, Va.	 $6,119,000	 4.2%	 $6,163,000	 99.3%	 3,636	 2.8%
+68	 O'Reilly Automotive	 Springfield, Mo.	 $5,789,000	 7.2%	 $5,789,000	 100.0%	 3,740	 4.8%
+69	 OfficeMax	 Naperville, Ill.	 $5,529,000	 -2.2%	 $7,121,000	 77.6%	 881	 -2.4%
+70	 QVC	 West Chester, Pa.	 $5,412,000	 3.4%	 $8,268,000	 65.5%	 0	 na
+71	 Dick's Sporting Goods	 Coraopolis, Pa.	 $5,212,000	 18.1%	 $5,212,000	 100.0%	 561	 6.9%
+72	 PetSmart	 Phoenix, Ariz.	 $5,186,000	 7.2%	 $5,402,000	 96.0%	 1,159	 3.7%
+73	 Big Lots	 Columbus, Ohio	 $5,093,000	 3.9%	 $5,233,000	 97.3%	 1,451	 3.8%
+74	 Defense Commissary Agcy.	 Fort Lee, Va.	 $5,067,000	 0.2%	 $5,067,000	 100.0%	 180	 -2.2%
+75	 Save Mart	 Modesto, Calif.	 $5,036,000	 1.2%	 $5,036,000	 100.0%	 238	 -0.4%
+76	 Alimentation Couche-Tard	 Tempe, Ariz.	 $4,867,000	 16.6%	 $6,863,000	 70.9%	 4,050	 4.9%
+77	 Dell	 Round Rock, Texas	 $4,748,000	 -4.0%	 $4,748,000	 100.0%	 0	 na
+78	 WinCo Foods	 Boise, Idaho	 $4,563,000	 6.1%	 $4,563,000	 100.0%	 80	 2.6%
+79	 Sherwin-Williams	 Cleveland	 $4,529,000	 7.2%	 $4,707,000	 96.2%	 3,326	 1.4%
+80	 Harris Teeter Supermkts.	 Charlotte, N.C.	 $4,286,000	 4.5%	 $4,286,000	 100.0%	 204	 2.5%
+81	 Tractor Supply Co.	 Brentwood, Tenn.	 $4,233,000	 16.3%	 $4,233,000	 100.0%	 1,085	 8.4%
+82	 Albertsons	 Boise, Idaho	 $4,100,000	 -5.0%	 $4,100,000	 100.0%	 211	 -4.5%
+83	 Chick-fil-A	 Atlanta	 $4,051,000	 13.1%	 $4,051,000	 100.0%	 1,615	 4.9%
+84	 Brinker International	 Dallas	 $4,038,000	 1.2%	 $4,447,000	 90.8%	 1,335	 -0.6%
+85	 Neiman Marcus	 Dallas	 $4,035,000	 8.4%	 $4,035,000	 100.0%	 77	 0.0%
+86	 Foot Locker	 New York	 $3,959,000	 10.7%	 $5,623,000	 70.4%	 2,476	 -3.2%
+87	 RadioShack	 Fort Worth, Texas	 $3,959,000	 -0.4%	 $4,186,000	 94.6%	 5,480	 -2.2%
+88	 Burlington Coat Factory	 Burlington, N.J.	 $3,837,000	 4.9%	 $3,854,000	 99.6%	 477	 4.1%
+89	 Roundy's Supermarkets	 Milwaukee, Wis.	 $3,827,000	 2.2%	 $3,827,000	 100.0%	 158	 1.9%
+90	 Michaels Stores	 Irving, Texas	 $3,825,000	 4.1%	 $4,210,000	 90.9%	 1,109	 0.5%
+91	 Belk	 Charlotte, N.C.	 $3,700,000	 5.3%	 $3,700,000	 100.0%	 303	 -0.7%
+92	 Stater Bros. Holdings	 San Bernardino, Calif.	 $3,693,000	 2.4%	 $3,693,000	 100.0%	 167	 0.0%
+93	 Sonic	 Oklahoma City, Okla.	 $3,693,000	 1.1%	 $3,693,000	 100.0%	 3,561	 -0.3%
+94	 Williams-Sonoma	 San Francisco	 $3,682,000	 6.8%	 $3,742,000	 98.4%	 561	 -2.8%
+95	 IKEA North America	 Conshohocken, Pa.	 $3,632,000	 5.0%	 $36,943,000	 9.8%	 38	 2.7%
+96	 Price Chopper Supermkts.	 Rotterdam, N.Y.	 $3,556,000	 1.6%	 $3,556,000	 100.0%	 129	 0.8%
+97	 The Sports Authority	 Englewood, Colo.	 $3,471,000	 1.8%	 $3,471,000	 100.0%	 460	 -0.9%
+98	 OSI Restaurant Partners	 Tampa, Fla.	 $3,461,000	 4.4%	 $3,803,000	 91.0%	 1,248	 -0.1%
+99	 Ingles Markets	 Asheville, N.C.	 $3,429,000	 4.7%	 $3,429,000	 100.0%	 203	 0.5%
+100	 Raley's	 W. Sacramento, Calif.	 $3,335,000	 -0.8%	 $3,335,000	 100.0%	 142	 -0.7%
